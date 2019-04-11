@@ -76,6 +76,10 @@ main {
 .btn:hover {
   background: #f4f4f4;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
 
 #header {
   padding: 1.5rem;
